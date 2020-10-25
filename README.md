@@ -7,7 +7,7 @@ I look at what the user goals are and what they expect. That way I can get a bet
 
 # How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-When a
+When approaching developing programs, I will look at how they function and if they work well for the project at hand. Some agile processes I hope to incorporate into my future development work is expecting change, keeping communication open, and making sure the development work is done in a reasonable amount of time. 
 
 
 # What does it mean to be a good team member in software development?
